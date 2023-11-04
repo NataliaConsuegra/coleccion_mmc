@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
-Inicio,/
-Navegar en la colección,/navegarenlacoleccion.html
-Cartas,/cartas.html
-Ubicaciones,/ubicaciones.html
-Mapa,/mapa.html
-Línea de tiempo,/lineadetiempo.html
-Fecha,/fecha.html
-Sobre el proyecto,/sobreelproyecto.html
+Home,/
+Browse,/browse.html
+Objects,/objects.html
+Location,/location.html
+Map,/map.html
+Timeline,/timeline.html
+Date,/date.html
+About,/about.html
