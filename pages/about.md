@@ -12,16 +12,10 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Sobre la colección
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+María Mercedes Carranza (MMC) fue una poeta y periodista colombiana, columnista en periódicos, directora de páginas literarias, jefe de redacción de la revista Nueva Frontera, crítica literaria en varios medios, integrante de la Asamblea Nacional Constituyente en 1991 por la bancada de la Alianza Democrática M-19, autora de cinco poemarios, además de varias antologías poéticas, y directora de la Casa de Poesía Silva (CPS) desde 1986, año de su fundación.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Tras su fallecimiento en 2003 algunos de los documentos que hacían parte de su archivo personal han sido mantenidos en su ubicación original y otros han sido llevados a nuevas locaciones en Bogotá. Una de ellas es el Banco de Archivos Digitales de Artes en Colombia (BADAC), repositorio multimedia de la Facultad de Artes y Humanidades de la Universidad de Los Andes.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Para la historia reciente del país es innegable la importancia de la figura de MMC como creadora y gestora cultural, y su compromiso con la divulgación de las artes y la literatura. Es bien sabido que su faceta como poeta es ampliamente conocida gracias a los análisis, estudios, reediciones y, en general, la divulgación de los que ha sido objeto su obra. En contraste, es escaso el conocimiento sobre el ejercicio de su rol como directora de la CPS.
