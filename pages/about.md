@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="obj01" %}
+{% include feature/jumbotron.html objectid="http://casadepoesiasilva.com/wp-content/uploads/2013/12/Banner_1.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
