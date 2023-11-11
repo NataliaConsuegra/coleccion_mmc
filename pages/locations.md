@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Estas son las ciudades desde las cuales se enviaron cartas a María Mercedes Carranza.
+El tamaño de cada palabra está determinado por la cantidad de cartas enviadas desde la ciudad correspondiente.
