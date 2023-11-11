@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Ciudades
 
-Estas son las ciudades desde las cuales se enviaron cartas a María Mercedes Carranza.
+Estas son las ciudades desde las cuales diversos remitentes enviaron cartas a María Mercedes Carranza.
 El tamaño de cada palabra está determinado por la cantidad de cartas enviadas desde la ciudad correspondiente.
