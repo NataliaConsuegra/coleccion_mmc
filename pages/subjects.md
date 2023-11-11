@@ -20,9 +20,9 @@ Para la presente colección se escogió de manera específica la correspondencia
 
 <b>envío_material</b>: varios intelectuales buscaron contribuir a la labor de la Casa de Poesía Silva en su objeto de fomentar el estudio y la divulgación de la poesía de la región, obsequiando material como libros, poemas sueltos, casetes y discos compactos a la biblioteca y fonoteca. Estas cartas acompañan el envío de material que se donó, cedió o brindó como regalo.
 
-<b>elogios_mmc</b>: elogios que diferentes figuras del mundo intelectual hicieron a María Mercedes Carranza de manera particular en su rol como directora de la Casa de Poesía Silva.
+<b>elogio_mmc</b>: elogios que diferentes figuras del mundo intelectual hicieron a María Mercedes Carranza de manera particular en su rol como directora de la Casa de Poesía Silva.
 
-<b>elogios_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la Casa de Poesía Silva como entidad cultural.
+<b>elogio_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la Casa de Poesía Silva como entidad cultural.
 
 <b>premio_cps</b>: mención del premio Premio de Poesía José Asunción Silva.
 
