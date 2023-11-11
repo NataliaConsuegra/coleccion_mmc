@@ -12,7 +12,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 Para la presente colección se escogió de manera específica la correspondencia de MMC en la que se menciona o se hace alguna alusión a la <b>Casa de Poesía Silva (CPS)</b>. El tamaño de la categoría está determinado por la cantidad de cartas enviadas y/o recibidas, y cada palabra clave lleva a las imágenes de las cartas correspondientes a dicha categoría:
 
-<b>lecturas</b>: cartas de quienes le escribieron a MMC para agradecerle por el espacio que les brindó en la CPS para un conversatorio, conferencia o lectura de poemas, o porque proyectaban hacerlo a futuro.
+<b>lectura</b>: cartas de quienes le escribieron a MMC para agradecerle por el espacio que les brindó en la CPS para un conversatorio, conferencia o lectura de poemas, o porque proyectaban hacerlo a futuro.
 
 <b>visita:</b> cartas cuyos remitentes mencionan alguna visita que hicieron a la CPS o su intención de hacerlo a futuro. En estas misivas no se refiere ninguna otra actividad específica (como lecturas de poemas u otras) más allá de la visita misma.
 
@@ -25,4 +25,5 @@ Para la presente colección se escogió de manera específica la correspondencia
 <b>elogios_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la CPS como entidad cultural.
 
 <b>premio_cps</b>: mención del premio CPS (Premio de Poesía José Asunción Silva).
+
 <b>otro</b>: mención de la CPS por otras razones.
