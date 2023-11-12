@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Ciudades
+## <b style='color:Teal;'>Ciudades</b>
 
 Estas son las ciudades desde las cuales diversos remitentes enviaron cartas a María Mercedes Carranza.
 El tamaño de cada palabra está determinado por la cantidad de cartas enviadas desde la ciudad correspondiente.
