@@ -22,7 +22,7 @@ Para la presente colección se escogió de manera específica la correspondencia
 
 &#x2022; <b>elogio_mmc</b>: elogios que diferentes figuras del mundo intelectual hicieron a María Mercedes Carranza de manera particular en su rol como directora de la Casa de Poesía Silva.
 
-&#x2022;<b>elogio_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la Casa de Poesía Silva como entidad cultural.
+&#x2022; <b>elogio_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la Casa de Poesía Silva como entidad cultural.
 
 &#x2022; <b>premio_cps</b>: mención del premio Premio de Poesía José Asunción Silva.
 
