@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://i0.wp.com/elartefacto.net/wp-content/uploads/2019/12/Carranza-portada.jpg?resize=1536%2C1024&ssl=1
+featured-image: https://bibliotecarafaelmaya.casadepoesiasilva.com/wp-content/uploads/2020/07/Foto-MMC-2-1536x1229.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 16em
 # optional: change position of background image, center, top, bottom
