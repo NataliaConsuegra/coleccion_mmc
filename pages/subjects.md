@@ -12,8 +12,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 Para la presente colección se escogió de manera específica la correspondencia de María Mercedes Carranza en la que se menciona o se hace alguna alusión a la <b>Casa de Poesía Silva</b>. El tamaño de la categoría está determinado por la cantidad de cartas enviadas y/o recibidas, y cada palabra clave lleva a las imágenes de las cartas correspondientes a dicha categoría:
 
-<ul>
-<li><b>lectura</b></li>: cartas de quienes le escribieron a MMC para agradecerle por el espacio que les brindó en la Casa de Poesía Silva para un conversatorio, conferencia o lectura de poemas, o porque proyectaban hacerlo a futuro.
+&#x2022;<b>lectura</b>: cartas de quienes le escribieron a MMC para agradecerle por el espacio que les brindó en la Casa de Poesía Silva para un conversatorio, conferencia o lectura de poemas, o porque proyectaban hacerlo a futuro.
 
 <b>visita:</b> cartas cuyos remitentes mencionan alguna visita que hicieron a la Casa de Poesía Silva o su intención de hacerlo a futuro. En estas misivas no se refiere ninguna otra actividad específica (como lecturas de poemas u otras) más allá de la visita misma.
 
@@ -26,6 +25,5 @@ Para la presente colección se escogió de manera específica la correspondencia
 <b>elogio_cps</b>: elogios que diferentes figuras del mundo intelectual hicieron a la Casa de Poesía Silva como entidad cultural.
 
 <b>premio_cps</b>: mención del premio Premio de Poesía José Asunción Silva.
-</ul>
 
 <b>otro</b>: mención de la Casa de Poesía Silva por otras razones.
