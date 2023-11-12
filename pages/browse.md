@@ -6,4 +6,4 @@ permalink: /browse.html
 # the Browse visualization will be added below the content in this file
 ---
 
-## Navegar por las cartas
+## <b style='color:Teal;'>Navegar por las cartas</b>
