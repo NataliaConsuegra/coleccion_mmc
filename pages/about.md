@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Sobre la colección
+## <b style='color:Teal;'>Sobre la colección</b>
 
 María Mercedes Carranza fue una poeta y periodista colombiana, columnista en periódicos, directora de páginas literarias, jefe de redacción de la revista <i>Nueva Frontera</i>, crítica literaria en varios medios, integrante de la Asamblea Nacional Constituyente en 1991 por la bancada de la Alianza Democrática M-19, autora de cinco poemarios, además de varias antologías poéticas, y directora de la <b>Casa de Poesía Silva</b> desde 1986, año de su fundación.
 
