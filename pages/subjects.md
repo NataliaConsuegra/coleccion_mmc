@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Correspondencia de María Mercedes Carranza
+## <b style='color:Teal;'>Correspondencia de María Mercedes Carranza</b>
 
 Para la presente colección se escogió de manera específica la correspondencia de María Mercedes Carranza en la que se menciona o se hace alguna alusión a la <b>Casa de Poesía Silva</b>. El tamaño de la categoría está determinado por la cantidad de cartas enviadas y/o recibidas, y cada palabra clave lleva a las imágenes de las cartas correspondientes a dicha categoría:
 
