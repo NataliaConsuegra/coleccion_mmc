@@ -6,4 +6,4 @@ permalink: /browse.html
 # the Browse visualization will be added below the content in this file
 ---
 
-## <b style='color:Teal;'>Navegar la correspondencia</b>
+## <b style='color:Teal;'>Navegar la colección</b>
